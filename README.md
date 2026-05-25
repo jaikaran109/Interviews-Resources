@@ -6,6 +6,10 @@ This repository collects interview preparation material across DBMS, DSA, Java, 
 
 The source material includes content originally authored and shared by Avinash Singh. Original attribution and license terms are retained in [LICENSE](LICENSE).
 
+## Support
+
+If you find this repository helpful, please star it and share it with friends or anyone preparing for interviews.
+
 ## Topics
 
 1. [DBMS Interview Questions](DBMS-Interview-Questions/)
